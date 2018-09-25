@@ -1,0 +1,333 @@
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\Main\JBC_PMIS_Government.exe.config
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\Main\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\Main\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.CancelReasonUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.FormBase.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SelectMonthUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SwipeCardUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.KeyboardUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.NumericKeyboardUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\Main\JBC_PMIS_Government.exe.config
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\Main\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\Main\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.CancelReasonUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.FormBase.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SelectMonthUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SwipeCardUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.KeyboardUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.NumericKeyboardUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares-Active\Philippine Science High-PMIS\Framework\obj\x86\Debug\JBC_PMIS_Government.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe.config
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MDIUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.CancelReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.FormBase.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SelectMonthUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SwipeCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.KeyboardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.NumericKeyboardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\Biometrix Systems\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\Biometrix Systems\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\Biometrix Systems\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe.config
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.pdb
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.CrystalReports.Engine.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportSource.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.Shared.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.Windows.Forms.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\FlashControlV71.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\stdole.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\Main\ShockwaveFlashObjects.dll
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csprojAssemblyReference.cache
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.LogInUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MDIUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.CancelReasonUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.FormBase.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SelectMonthUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SwipeCardUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.DateTimePickerUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.KeyboardUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.LookUpValueUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxInputUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.NumericKeyboardUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchesUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchUI.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Properties.Resources.resources
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.GenerateResource.cache
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.CoreCompileInputs.cache
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.CopyComplete
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+E:\JBC Softwares\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe.config
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.exe
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\JBC_PMIS_Government.pdb
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportSource.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.Shared.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.Windows.Forms.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\FlashControlV71.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\stdole.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\Main\ShockwaveFlashObjects.dll
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.MDIUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.CancelReasonUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.FormBase.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SelectMonthUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SwipeCardUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.DateTimePickerUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.KeyboardUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.LookUpValueUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxInputUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.MessageBoxUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.NumericKeyboardUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchesUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Global.SearchUI.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.Properties.Resources.resources
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.GenerateResource.cache
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.CoreCompileInputs.cache
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csproj.CopyComplete
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.exe
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.pdb
+C:\Users\rmf-intern1\Desktop\JBC PMIS-Government - Philippine Science High\Framework\obj\x86\Debug\JBC_PMIS_Government.csprojAssemblyReference.cache

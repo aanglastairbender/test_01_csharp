@@ -1,0 +1,260 @@
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.exe.config
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportDetailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MDIDailyTimeRecordSystemUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.FormBase.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SelectMonthUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SwipeCardUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.DateTimePickerUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.KeyboardUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.LookUpValueUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxInputUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.NumericKeyboardUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchesUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Properties.Resources.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.exe
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.pdb
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.exe
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.pdb
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\JAPConcept\Desktop\Government Softwares\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordRegularUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.exe.config
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.exe
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.pdb
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.exe
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.pdb
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportDetailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MDIDailyTimeRecordSystemUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordRegularUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.FormBase.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SelectMonthUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SwipeCardUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.DateTimePickerUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.KeyboardUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.LookUpValueUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxInputUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.NumericKeyboardUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchesUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchUI.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\new movies\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordHospitalUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.exe.config
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.exe
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.pdb
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.exe
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\Main\DailyTimeRecordSystem.pdb
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportDetailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MDIDailyTimeRecordSystemUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordHospitalUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.FormBase.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SelectMonthUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SwipeCardUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.DateTimePickerUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.KeyboardUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.LookUpValueUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxInputUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.NumericKeyboardUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchesUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+C:\Users\admin\Desktop\Government\DTRLGUSanCarlos\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+D:\old desktop\Government Softwares\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.exe.config
+D:\old desktop\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.exe
+D:\old desktop\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.pdb
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.exe.config
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.exe
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.pdb
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.exe
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.pdb
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MDIDailyTimeRecordSystemUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordHospitalUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.FormBase.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SelectMonthUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SwipeCardUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.DateTimePickerUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.KeyboardUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.LookUpValueUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxInputUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.NumericKeyboardUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchesUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Properties.Resources.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\SOFTWARES\Government Softwares\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.exe.config
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.exe
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.pdb
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.exe
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\Main\DailyTimeRecordSystem.pdb
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.HolidayDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.LeaveTypeDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleListUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.WorkScheduleDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AttendanceSummaryUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.CSForm48UI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SupportUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DepartmentDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.DesignationDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.MDIDailyTimeRecordSystemUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordHospitalUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessDailyTimeRecordUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.FormBase.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SelectMonthUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SwipeCardUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.DateTimePickerUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.KeyboardUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.LookUpValueUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxInputUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.MessageBoxUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.NumericKeyboardUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchesUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Global.SearchUI.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\Government\LGU SanCarlos-DTRS\Framework\obj\x86\Debug\DailyTimeRecordSystem.csproj.GenerateResource.Cache
